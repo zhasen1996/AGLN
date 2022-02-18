@@ -1,0 +1,15 @@
+# ninja log v5
+1	5157	1644470972808680967	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/cpu/encoding_cpu.o	326d047e96cacdb1
+1	21336	1644470988980720368	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/cpu/syncbn_cpu.o	c1fd63a594e5d180
+2	21695	1644470989340721259	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/cpu/rectify_cpu.o	c2647185f59c8b16
+2	21717	1644470989364721319	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/cpu/roi_align_cpu.o	9a65661155a7003b
+1	22201	1644470989848722517	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/cpu/nms_cpu.o	8c906c1a5bd7009f
+1	29803	1644470997436741441	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/cpu/operator.o	cd4fc13a1b1a6b3
+3	16078	1644471014108783907	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/gpu/lib_ssd.o	995d054d6e7240e7
+1	33874	1644471031888830504	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/gpu/operator.o	ca4b8e498732797a
+3	48451	1644471046480869725	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/gpu/roi_align_kernel.o	7ea12b8eb7d3770f
+2	49521	1644471047548872629	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/gpu/syncbn_kernel.o	7e56a2ee81d4b9a5
+2	49646	1644471047672872967	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/gpu/activation_kernel.o	bdc62be4f6eaa6e1
+1	50200	1644471048228874480	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/gpu/rectify_cuda.o	4527815e834ae579
+1	51551	1644471049580878168	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/gpu/nms_kernel.o	7edff1e12b443dfb
+2	52618	1644471050648881085	/data/zhasen/AGLN/PyTorch-Encoding-master/build/temp.linux-x86_64-3.7/data/zhasen/AGLN/PyTorch-Encoding-master/encoding/lib/gpu/encoding_kernel.o	a22b396ba68089a

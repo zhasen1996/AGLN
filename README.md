@@ -1,4 +1,4 @@
-# Attention Guided Global Enhancement and Local Refinement Network for Semantic Segmentation
+# Attention Guided Global Enhancement and Local Refinement Network for Semantic Segmentation [arxiv](https://arxiv.org/abs/2204.04363)
 
 Jiangyun Li, Sen Zha, Chen Chen, Meng Ding, Tianxiang Zhang, and Hong Yu
 

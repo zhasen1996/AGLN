@@ -5,7 +5,7 @@
 ###########################################################################
 
 """
-AGLN: use SAB_SDM(A) and LRM.
+AGLN: use GEM (SAB + SDM) and LRM.
 """
 
 from __future__ import division

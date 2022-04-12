@@ -8,13 +8,32 @@ In this paper, a novel AGLN is proposed to improve the encoder-decoder network f
 
 AGLN achieves the state-of-the-art result (56.23% mean IOU) on the PASCAL Context dataset.
 
+![image](https://github.com/zhasen1996/AGLN/blob/master/img/AGLN.png)
+
 ## Usage
-
-
+Follow [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding).
 
 ## Citation
+```
+@misc{https://doi.org/10.48550/arxiv.2204.04363,
+  doi = {10.48550/ARXIV.2204.04363},
+  
+  url = {https://arxiv.org/abs/2204.04363},
+  
+  author = {Li, Jiangyun and Zha, Sen and Chen, Chen and Ding, Meng and Zhang, Tianxiang and Yu, Hong},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences, I.4.6},
+  
+  title = {Attention guided global enhancement and local refinement network for semantic segmentation},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 
-
+```
 
 ## Acknowledge
 

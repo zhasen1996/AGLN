@@ -11,7 +11,7 @@ AGLN achieves the state-of-the-art result (56.23% mean IOU) on the PASCAL Contex
 ![image](https://github.com/zhasen1996/AGLN/blob/master/img/AGLN.png)
 
 ## Usage
-Follow [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding).
+Follow [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding), and our network is in [agln.py](https://github.com/zhasen1996/AGLN/blob/master/encoding/models/sseg/agln.py).
 
 ## Citation
 ```
